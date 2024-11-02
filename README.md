@@ -1,8 +1,23 @@
 # LITA_PROJECTS
 
-[PROJECT OVERVIEW](#PROJECT-OVERVIEW)
-## PROJECT TITLE: DATA ENTRY
+## PROJECT TITLE: LITA DOCUMENTATIONS 
+### Project Outlines
+---
+[PROJECT OVERVIEW](#project-overview)
 
+[DATA SOURCE](#data-source)
+
+[TOOL USED](#tool-used)
+
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+---
 ### PROJECT OVERVIEW
 
 This is a process of inputing the data into rows and columns. You can also make use of form which can be added to the Quick Access Toolbar in Excel to enter your data.
