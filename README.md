@@ -24,19 +24,19 @@ The purpose of this project is to documentation some of my works in LITA classes
 
 ### Data source
 The data used for this analysis was sent to the students from our instructor through telegram and individual LMS canvas account. Some of the data set used include
-- Excel
+- Excel [Donwload Here](https://www.microsoft.com/en-ng/search/explore?q=Microsoft+Excel+2016+download)
   - Excel Function 1.xlsx (Number)
   - Excel Function 2.xlsl (Text)
   - Excel Function 3.xlsl (Lookup)
   - Pivot Table.xlsx (IF function)
   
-- SQL
+- SQL [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for the studio [Download Here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
   - LITA_DB Query.txt
   - SQL queries for 19&20.txt
   - SQL queries for 24.txt
   - International Breweries.csv etc
   
-- Power BI
+- Power BI [Downloadd Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - Loan Data.xlsx
   - HR Data.xlsx
   - Columnar data.xlsx
