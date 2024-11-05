@@ -84,3 +84,42 @@ These are some of the code and queries used to achieve our analysis
 ![Vlook up](https://github.com/user-attachments/assets/0a760bf1-5432-4ff5-b90c-e531d9f5530f)
 
 ![IF function](https://github.com/user-attachments/assets/552bd6b5-dcbf-4df2-9c3d-d9918419cf46)
+
+![Pivot table Class](https://github.com/user-attachments/assets/b6b09dc2-b754-403d-b38c-3504c7ae1ef5)
+
+![CHART 1](https://github.com/user-attachments/assets/387f188e-ae4f-4600-bbfc-37078e5b322f)
+
+![CHART 2](https://github.com/user-attachments/assets/420e97c4-fd94-4fbe-9f87-c9c9c2dc2819)
+
+![SQL 1](https://github.com/user-attachments/assets/5d700147-64f0-4f46-9c0f-7a1474aa7141)
+
+![SQL 2](https://github.com/user-attachments/assets/15aece22-c2d5-4eb7-b28c-dbc4d1ba9bd5)
+
+![SQL 3](https://github.com/user-attachments/assets/c4bfc1f2-ec08-4769-bbf1-104aaaabee99)
+
+![SQL 4](https://github.com/user-attachments/assets/4e0a1af6-766e-4c08-ab5d-3a3cd9a6a789)
+
+![SQL 6](https://github.com/user-attachments/assets/ab29d691-b973-4ed8-8029-995193621a36)
+
+![SQL 7](https://github.com/user-attachments/assets/22c05514-6a63-4569-848d-bf27de82333d)
+
+![SQL VIEW 8](https://github.com/user-attachments/assets/a6fdb836-088a-4866-aaeb-d7cd347e8a1f)
+
+![DASHBOARD 1](https://github.com/user-attachments/assets/f65cfd30-9e7d-477d-9ff2-2da7efbaec18)
+
+![DASHBOARD 3](https://github.com/user-attachments/assets/5dc5a7bb-c880-414c-8f26-d4a44fd7cc30)
+
+![DASHBOARD 4](https://github.com/user-attachments/assets/85d79ff8-8d9e-4d97-9847-04057bb885d8)
+
+![DASHBOARD 5](https://github.com/user-attachments/assets/114ce559-8f75-4b36-b5ca-5e7b0c0be6c5)
+
+![MAP](https://github.com/user-attachments/assets/a6902e9c-18fc-46d2-b7bf-ef0cffa6bcd0)
+
+
+
+
+
+
+
+
+
