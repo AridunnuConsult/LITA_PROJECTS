@@ -72,7 +72,35 @@ These are some of the code and queries used to achieve our analysis
 =AVG(I5:133791)
 =COUNTIF(Table1[SubscriptionType],D33782)
 ```
+``` SQL
+CREATE TABLE EMPLOYEE (
+staffid varchar (10) not null,
+firstname varchar (255) not null,
+secondname varchar (255) not null,
+Gender varchar (10),
+Date_of_birth date,
+Hiredate datetime,
+Primary Key (staffid)
+)
 
+select * from employee
+
+select sum(salary) as Total_Salary from salary
+
+update salary
+set salary=7056999.9994
+where staffid= 'AB401'
+
+select count(*) from Payment
+where Payment_Method= 'Transfer'
+
+select count(staffid) as StaffperState, state_of_origin from Employee
+Group by state_of_origin
+Order by 2 desc
+
+select * from salary
+where salary>=100560.934
+```
 
 
 ![Excel Function 1](https://github.com/user-attachments/assets/958737a3-a793-464d-a1d6-14dd3c2baaf9)
