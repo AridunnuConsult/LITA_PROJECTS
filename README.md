@@ -36,7 +36,7 @@ The data used for this analysis was sent to the students from our instructor thr
   - SQL queries for 24.txt
   - International Breweries.csv etc
   
-- Power BI [Downloadd Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - Loan Data.xlsx
   - HR Data.xlsx
   - Columnar data.xlsx
