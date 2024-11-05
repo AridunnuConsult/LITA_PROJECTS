@@ -69,8 +69,21 @@ I provide answer to some questions on the dataset such as
 ### Data analysis
 These are some of the code and queries used to achieve our analysis
 ```Excel
-=AVG(I5:133791)
-=COUNTIF(Table1[SubscriptionType],D33782)
+=SUM(D8:D27)
+=MIN(D8:D27)
+=AVERAGE(D8:D27)
+=COUNTA(B8:B27)
+=SUMIF(C8:C27,C9,D8:D27)
+=AVERAGEIF(C8:C27,C16,D8:D27)
+=RIGHT(B10,4)
+=MID(B10,3,6)
+=UPPER(E6)
+=PROPER(TRIM(B7))
+=C6&$E$4
+=C6&D6&$E$4
+=B9&" "&C9
+=VLOOKUP(E9,'Simple Salary Structure'!$B$8:$I$16,2,FALSE)
+=IF(J30778<=20,"Low",IF(J30778<=50,"Medium","High"))
 ```
 ``` SQL
 CREATE TABLE EMPLOYEE (
@@ -101,7 +114,7 @@ Order by 2 desc
 select * from salary
 where salary>=100560.934
 ```
-
+These are some of the screenshots of the my works
 
 ![Excel Function 1](https://github.com/user-attachments/assets/958737a3-a793-464d-a1d6-14dd3c2baaf9)
 
