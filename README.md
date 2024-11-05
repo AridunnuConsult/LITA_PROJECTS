@@ -20,7 +20,7 @@
 ---
 ### PROJECT OVERVIEW
 
-The purpose of this project is to documentation some of my works in LITA classes so as to serve as a future reference to other works I will be doing. This documentation consisit of some calculations in excel classes, queries for SQL classes and some visual done in power Bi classes.
+The purpose of this project is to documentation some of my works in LITA classes so as to serve as a future reference to other works I will be doing. This documentation consist of some calculations in excel classes, queries for SQL classes and some visual done in power Bi classes.
 
 ### Data source
 The data used for this analysis was sent to the students from our instructor through telegram and individual LMS canvas account. Some of the data set used include
